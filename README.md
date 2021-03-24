@@ -1,4 +1,4 @@
-# Zabbix_on_Centos4
+# Zabbix agent on Centos 4
 
 **Problem**: officionally zabbix agent couldn't run on Centos 4 (because of old glibc version).
 
